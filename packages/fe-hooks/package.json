@@ -1,6 +1,5 @@
 {
-  "name": "fe-fish-memory",
-  "private": true,
+  "name": "fe-hooks",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "turbo": "^2.5.4"
-  }
+  "license": "ISC"
 }
